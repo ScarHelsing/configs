@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "version": "1.0.1",
+  "dependencies": {
+    "respond": "fubhy/respond",
+    "selectivizr": "fubhy/selectivizr",
+    "html5shiv": "fubhy/html5shiv",
+    "matchmedia": "fubhy/matchmedia",
+    "pie": "fubhy/pie",
+    "susy": "^2.2.12",
+    "breakpoint-sass": "^2.7.0"
+  },
+  "devDependencies": {
+    "susy": "^2.2.12"
+  }
+}
